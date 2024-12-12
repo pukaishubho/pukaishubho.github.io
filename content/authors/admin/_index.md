@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: শুভজিত
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shubhojit Banerjee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shubhojit
+last_name: Banerjee
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Grad Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Computer aid  meteria desing
     url: https://openai.com/
 
 # Social network links
