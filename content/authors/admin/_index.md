@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular dynamic simulation
+  - Mechine Learning 
+  - Method development for understanding complex chemical system
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Material Scence/Mechine Learning
+    institution: UMass Lowell
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,40 +72,37 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master of science
+    institution: IISER Bhopal
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      - 
+      - 
+      - 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Intern
+    company_name: ORNL
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Development of ML/DFT workflow for screening of Ligands for Ga seperation 
+      - Graph based model for predicting metal-ligand stability constant
+      - Molten salt simulation
+
+  - position: Intern
+    company_name: TCG-Lifescience chembioteck
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Synthesis of small molecule for drug 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
