@@ -6,12 +6,12 @@ title: Shubhojit
 name_pronunciation: Shubhojit Banerjee
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Shubhojit 
+last_name: Banerjee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥳
 
 # Is this the primary user of the site?
 superuser: true
