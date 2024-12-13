@@ -1,13 +1,13 @@
 ---
 # Display name
-title: শুভজিত
+title: Shubhojit
 
 # Name pronunciation (optional)
 name_pronunciation: Shubhojit Banerjee
 
 # Full name (for SEO)
-first_name: Shubhojit
-last_name: Banerjee
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Grad Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Computer aid  meteria desing
+  - name: Computational Material desing desing
     url: https://openai.com/
 
 # Social network links
@@ -61,26 +61,18 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Master of science
     institution: IISER Bhopal
     date_start: 2016-01-01
     date_end: 2020-12-31
+        date_end: 2020-12-31
     summary: |
-
-      - 
-      - 
-      - 
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  
 work:
   - position: Intern
     company_name: ORNL
@@ -140,11 +132,11 @@ skills:
 
 languages:
   - name: English
+    percent: 99
+  - name: Hindi
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengli
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
