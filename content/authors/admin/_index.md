@@ -6,7 +6,7 @@ title: Shubhojit
 name_pronunciation: Shubhojit Banerjee
 
 # Full name (for SEO)
-first_name: Shubhojit 
+first_name: Shubhojit
 last_name: Banerjee
 
 # Status emoji
@@ -20,15 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Grad Student
+role: Graduate Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Computational Material desing desing
+  - name: Computational Material Design
     url: https://openai.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
@@ -46,33 +45,37 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
+# Interests
 interests:
-  - Molecular dynamic simulation
-  - Mechine Learning 
-  - Method development for understanding complex chemical system
+  - Molecular dynamics simulation
+  - Machine Learning
+  - Method development for understanding complex chemical systems
 
+# Education
 education:
-  - area: PhD Material Scence/Mechine Learning
+  - area: PhD in Materials Science and Machine Learning
     institution: UMass Lowell
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs Are Awesome_, supervised by [Prof. Joe Smith](https://example.com). 
+      Presented papers at five IEEE conferences and published contributions in two Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: Master of science
+  - area: Master of Science
     institution: IISER Bhopal
     date_start: 2016-01-01
     date_end: 2020-12-31
-    date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs Are Awesome_, supervised by [Prof. Joe Smith](https://example.com). 
+      Presented papers at five IEEE conferences and published contributions in two Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  
+
+# Work Experience
 work:
   - position: Intern
     company_name: ORNL
@@ -80,24 +83,23 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - Development of ML/DFT workflow for screening of Ligands for Ga seperation 
-      - Graph based model for predicting metal-ligand stability constant
-      - Molten salt simulation
+      - Development of ML/DFT workflows for ligand screening in Ga separation.
+      - Graph-based modeling for predicting metal-ligand stability constants.
+      - Molten salt simulations.
 
   - position: Intern
-    company_name: TCG-Lifescience chembioteck
+    company_name: TCG-Lifescience Chembiotech
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Synthesis of small molecule for drug 
+      Responsibilities included:
+      - Synthesis of small molecules for drug discovery.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -130,18 +132,16 @@ skills:
         percent: 80
         icon: camera
 
+# Languages
 languages:
   - name: English
     percent: 99
   - name: Hindi
     percent: 100
-  - name: Bengli
+  - name: Bengali
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -149,7 +149,10 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Studied foundational concepts of neural networks and deep learning. 
+      Built, trained, and applied fully connected deep neural networks. 
+      Gained knowledge about key parameters in network architecture and applied deep learning in real-world applications.
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -157,17 +160,19 @@ awards:
     icon: edx
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      - How to synthesize blockchain solutions.
+      - The mechanics and applications of Bitcoin.
+      - Alternatives to Proof-of-Work consensus algorithms.
+
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
-    awarder: datacamp
+    awarder: DataCamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Introduced to object-oriented programming using S3 and R6 systems. 
+      Simplified functions in R and gained industry-relevant knowledge for API work and GUI design.
 ---
 
 ## About Me
